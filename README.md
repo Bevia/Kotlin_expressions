@@ -9,4 +9,9 @@ New Kotlin Java Programming series.
             
 
 Compiled with IntelliJ IDEA 15
+
+      Community
+      For JVM and Android
+      development
+
 https://www.jetbrains.com/idea/download/
