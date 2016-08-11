@@ -33,6 +33,7 @@ public class MainClass {
     }
 
     public static void main(final String[] args) {
+
         List<String> cities = Arrays.asList("Albany", "Boulder", "Chicago", "Denver", "Eugene");
 
         findChicagoImperative(cities);
